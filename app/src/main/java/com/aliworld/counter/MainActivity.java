@@ -28,7 +28,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //Total number of clicks
-        
+
         totalClick=0;
 
         bAddOne=(Button)findViewById(R.id.bAdd);
